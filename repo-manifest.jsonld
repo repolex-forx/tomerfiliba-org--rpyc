@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tomerfiliba-org/rpyc/commit/08ad26b5e80cb1d6f1e1ef8ca2013e1b7ff293fb",
       "git:hexsha": "08ad26b5e80cb1d6f1e1ef8ca2013e1b7ff293fb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tomerfiliba-org/rpyc/commit/d71443fe4f2c35299f342e118f90caa4fe19ca74",
